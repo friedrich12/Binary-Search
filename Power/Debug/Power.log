@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\friedrich\documents\visual studio 2015\projects\power\power\source.cpp(50): warning C4715: 'binarysearch': not all control paths return a value
+  Power.vcxproj -> C:\Users\friedrich\Documents\Visual Studio 2015\Projects\Power\Debug\Power.exe
